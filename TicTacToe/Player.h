@@ -23,9 +23,5 @@ public:
 	bool checkWinner();//Checks for winner or tie
 	void displayBoard();//Displays board 
 	void winnerMsg();//Displays a winning message/tie
-
-
-
-	
 };
 
